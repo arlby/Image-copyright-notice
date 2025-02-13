@@ -1,0 +1,13 @@
+﻿<svg class="logo__mi" viewBox="0 0 112 112" width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0055A4; stop-opacity:1" /> <!-- 蓝色 -->
+            <stop offset="40%" style="stop-color:#A4C8E1; stop-opacity:1" /> <!-- 蓝色到浅蓝 -->
+            <stop offset="60%" style="stop-color:#F4B6B0; stop-opacity:1" /> <!-- 浅红 -->
+            <stop offset="100%" style="stop-color:#EF4135; stop-opacity:1" /> <!-- 红色 -->
+        </linearGradient>
+    </defs>
+    <g>
+        <path fill="url(#grad1)" d="M100.326,11.702 C89.76,1.176 74.566,0 56,0 C37.41,0 22.194,1.19 11.632,11.744 C1.072,22.294 0,37.486 0,56.054 C0,74.626 1.072,89.822 11.636,100.376 C22.198,110.932 37.412,112 56,112 C74.588,112 89.8,110.932 100.362,100.376 C110.926,89.82 112,74.626 112,56.054 C112,37.462 110.914,22.254 100.326,11.702 Z"/>
+    </g>
+</svg>
